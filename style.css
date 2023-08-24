@@ -67,10 +67,15 @@ div{
     flex-direction: column;
     align-items: center;
     font-size: x-large;
-    width: 20%;
-    height: 50px;
+    width: 150px;
+    height: 80px;
     margin-top: 30px;
     border-radius: 20px;
     font-family: 'Raleway', sans-serif;
     background-color: #96D1C7;
+}
+
+#showResult p{
+    font-size: medium;
+
 }
